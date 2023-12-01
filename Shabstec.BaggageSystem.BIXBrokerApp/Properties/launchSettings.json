@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BIXBrokerApp_RabbitMQ": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

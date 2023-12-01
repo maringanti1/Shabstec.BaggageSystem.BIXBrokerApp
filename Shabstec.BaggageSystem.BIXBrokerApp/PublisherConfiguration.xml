@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Publisher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ConfigData>
+		<BrokerSvcBusQueueName></BrokerSvcBusQueueName>
+		<BrokerSvcBusURL></BrokerSvcBusURL>
+		<RabbitMQHostSecretName></RabbitMQHostSecretName>
+		<RabbitMQPortSecretName></RabbitMQPortSecretName>
+		<RabbitMQUsernameSecretName></RabbitMQUsernameSecretName>
+		<RabbitMQPasswordSecretName></RabbitMQPasswordSecretName>
+		<RabbitMQExchange></RabbitMQExchange>
+		<SubscribedQueueName></SubscribedQueueName>
+		<SubscribedQueueEndPoint></SubscribedQueueEndPoint>
+	</ConfigData>
+	<TopicCodeData>
+		<Topics>
+			<Topic>
+				<TopicName>IA</TopicName>
+				<TopicHost>IA</TopicHost>
+				<TopicVersion>IA</TopicVersion>
+			</Topic>
+			<Topic>
+				<TopicName>BA</TopicName>
+				<TopicHost>BA</TopicHost>
+				<TopicVersion>BA</TopicVersion>
+			</Topic>
+		</Topics>
+	</TopicCodeData>
+	<SubscriberTopics>
+		<SubTopics>
+			<Topic>
+				<TopicName>IA</TopicName>
+				<TopicHost>IA</TopicHost>
+				<TopicVersion>IA</TopicVersion>
+			</Topic>
+			<Topic>
+				<TopicName>CA</TopicName>
+				<TopicHost>CA</TopicHost>
+				<TopicVersion>CA</TopicVersion>
+			</Topic>
+		</SubTopics>
+	</SubscriberTopics>
+</Publisher>

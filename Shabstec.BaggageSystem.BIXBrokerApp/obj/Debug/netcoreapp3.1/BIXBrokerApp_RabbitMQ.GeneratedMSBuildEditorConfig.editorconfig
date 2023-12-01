@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BIXBrokerApp_RabbitMQ
+build_property.ProjectDir = C:\Shabbstech\BIXMessageService\BIXBrokerApp_RabbitMQ\BIXBrokerApp_RabbitMQ\
